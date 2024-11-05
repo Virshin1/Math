@@ -9,7 +9,7 @@ class Maths:
         elif(operation=='/'):
             print(first/second)
         else:
-            return 'Enter a valid operation'
+            print('Enter a valid operation')
 
 num1=int(input("Enter first number"))
 num2=int(input("Enter second number"))
